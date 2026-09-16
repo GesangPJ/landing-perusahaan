@@ -93,7 +93,7 @@ export function AppFooter(){
       <div className="border-t border-gray-800 bg-blue-900 text-white">
         <div className="max-w-7xl mx-auto px-6 py-4">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm">
-            <p>&copy; {tahun} Perusahaan. All rights reserved.</p>
+            <p>&copy; {tahun} Gesang Technology. All rights reserved.</p>
             <div className="flex space-x-6">
               <a href="/privacy" className="hover:text-secondary transition-colors">Privacy Policy</a>
               <a href="/terms" className="hover:text-secondary transition-colors">Terms of Service</a>

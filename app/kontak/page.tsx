@@ -21,8 +21,11 @@ export default function HalamanKontak(){
             <div className="grid grid-cols-1 gap-3 my-5">
             <select className="w-full h-10 border rounded-md bg-background">
                 <option>Pilih layanan</option>
-                <option>Procurement Barang Elektronik</option>
-                <option>Procurement Barang Sembako</option>
+                <option>Layanan 1</option>
+                <option>Layanan 2</option>
+                <option>Layanan 3</option>
+                <option>Layanan 4</option>
+                <option>Layanan 5</option>
             </select>
             </div>
             <div className="grid grid-cols-1 gap-3 max-w-120 my-5">
